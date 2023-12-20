@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatic, University of Verona, 2018
+* M.S. in Quantitative and Computational Biology, University of Trento, 2020
+* Ph.D in Molecular Genetics, Biotechnology and Experimental Medicine, University of Brescia, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb-Oct 2021: Research scholarship
+  * Neurogenomic Biomarkers Laboratory - University of Trento
+  * Genome-wide characterization of autism spectrum disorders families and analysis of the association between polygenic risk scores and clinical phenotypes.
+  * Supervisor: Professor Enrico Domenici
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatic skills
+  * Genomic analysis from array and Whole Genome Sequencing data.
+  * Multiomics data integration analysis from bulk and single cell RNA and ATAC sequencing and RRBS data. 
+  * Programming for Bioinformatics (Python and R languages, basic knowledge of C, MATLAB and Java).
+  * Knowledge and usage of the following softwares for the analysis of bioinformatics data: Plink, GCTA, PRSice, Samtools and BCFtool, Seurat/Signac, Bismark.
+  * Basic knowledge of the Snakemake workflow management system for the creation of bioinformatic pipelines.
 
 Publications
 ======
